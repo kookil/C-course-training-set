@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "速算24点", "速算24点\速算24点.csproj", "{FDA292D8-440D-44E0-8A8E-72239F280245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA292D8-440D-44E0-8A8E-72239F280245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA292D8-440D-44E0-8A8E-72239F280245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA292D8-440D-44E0-8A8E-72239F280245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA292D8-440D-44E0-8A8E-72239F280245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997EF12F-6B5F-4C95-B767-257C61367A08}
+	EndGlobalSection
+EndGlobal

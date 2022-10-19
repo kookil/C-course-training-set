@@ -1,0 +1,10 @@
+C:\Users\kookil\Desktop\速算24点\速算24点\bin\Debug\速算24点.exe.config
+C:\Users\kookil\Desktop\速算24点\速算24点\bin\Debug\速算24点.exe
+C:\Users\kookil\Desktop\速算24点\速算24点\bin\Debug\速算24点.pdb
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.csprojAssemblyReference.cache
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.Form1.resources
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.Properties.Resources.resources
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.csproj.GenerateResource.cache
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.csproj.CoreCompileInputs.cache
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.exe
+C:\Users\kookil\Desktop\速算24点\速算24点\obj\Debug\速算24点.pdb

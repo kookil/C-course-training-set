@@ -1,0 +1,10 @@
+C:\Users\kookil\source\repos\油漆桶\油漆桶\bin\Debug\油漆桶.exe.config
+C:\Users\kookil\source\repos\油漆桶\油漆桶\bin\Debug\油漆桶.exe
+C:\Users\kookil\source\repos\油漆桶\油漆桶\bin\Debug\油漆桶.pdb
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.csprojAssemblyReference.cache
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.Form1.resources
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.Properties.Resources.resources
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.csproj.GenerateResource.cache
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.csproj.CoreCompileInputs.cache
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.exe
+C:\Users\kookil\source\repos\油漆桶\油漆桶\obj\Debug\油漆桶.pdb
